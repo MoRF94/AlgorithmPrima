@@ -1,0 +1,5 @@
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\Graph\bin\Debug\Graph.dll
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\Graph\bin\Debug\Graph.pdb
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\Graph\obj\Debug\Graph.dll
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\Graph\obj\Debug\Graph.pdb

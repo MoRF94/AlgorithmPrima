@@ -1,0 +1,11 @@
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\bin\Debug\AlgorithmPrima.exe.config
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\obj\Debug\AlgorithmPrima.csprojResolveAssemblyReference.cache
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\obj\Debug\AlgorithmPrima.Form1.resources
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\obj\Debug\AlgorithmPrima.Properties.Resources.resources
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\obj\Debug\AlgorithmPrima.csproj.GenerateResource.Cache
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\bin\Debug\AlgorithmPrima.exe
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\bin\Debug\AlgorithmPrima.pdb
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\bin\Debug\Graph.dll
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\bin\Debug\Graph.pdb
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\obj\Debug\AlgorithmPrima.exe
+C:\Users\victo\Google Диск\Other project\AlgorithmPrima\AlgorithmPrima\obj\Debug\AlgorithmPrima.pdb
